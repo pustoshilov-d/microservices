@@ -1,0 +1,41 @@
+version: '3.7'
+services:
+  buying-service:
+    build: BuyingService
+    ports:
+     - 9001:9001
+    depends_on:
+    - cart-service
+
+  cart-service:
+    build: CartService
+    ports:
+    - 9002:9002
+
+  goods-service:
+    build: GoodsService
+    ports:
+    - 9003:9003
+
+  identify-service:
+    build: IdentifyService
+    ports:
+    - 9004:9004
+    depends_on:
+    - buying-service
+    - cart-service
+
+  gateway:
+    build: config
+    ports:
+    - 9000:9000
+    links:
+    - buying-service
+    - cart-service
+    - identify-service
+    - goods-service
+    depends_on:
+    - buying-service
+    - cart-service
+    - identify-service
+    - goods-service

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cart_service.main:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cart_service_main_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cart_service.main/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cart_service.main" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

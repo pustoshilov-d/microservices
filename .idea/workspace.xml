@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7403f50f-fb49-4f9f-8cbe-ea100588a463" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/AuthServer">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/BuyingService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CartService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/GatewayService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/GoodsService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/IdentifyService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/TokenService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/auth_erver">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/test">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/GoodsService">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/TokenService/build.gradle">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/TokenService">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/IdentifyService">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/AuthServer">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/BuyingService">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/test">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/GatewayService">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CartService">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="buying_service" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="buying_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="buying_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cart_service" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cart_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cart_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="goods_service" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="goods_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="goods_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="identify_service" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="identify_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="identify_service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V8oNinTPofNCoZgIEGwH1cPOHr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.3283237" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="microservices.auth_server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programing\Projects\microservices\test\src\main\resources" />
+      <recent name="D:\Programing\Projects\microservices\test" />
+      <recent name="D:\Programing\Projects\microservices\AuthServer\src\main\resources" />
+      <recent name="D:\Programing\Projects\microservices\GatewayService\src\main\java\microservices\gateway_service" />
+      <recent name="D:\Programing\Projects\microservices\IdentifyService\src\main\java\microservices\identify_service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="microservices.auth_server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programing\Projects\microservices\GoodsService\src\main\java\microservices\goods_service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle " />
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.IdentifyService [bootJar]">
+    <configuration name="CartService [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CartService" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/Programing/Projects/microservices/TokenService/build.gradle" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TokenService/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GoodsService [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GoodsService" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IdentifyService [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/IdentifyService" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IdentifyService [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/IdentifyService" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IdentifyService [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/IdentifyService" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth_server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservices.auth_server.AuthServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="buying_service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservices.buying_service.BuyingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart_service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservices.cart_service.CartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway_service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservices.gateway_service.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="goods_service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservices.goods_service.GoodsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdentifyServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="identify_service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservices.identify_service.IdentifyServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="test.test.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IdentifyService [bootJar]" />
+        <item itemvalue="Gradle.IdentifyService [build]" />
+        <item itemvalue="Gradle.IdentifyService [clean]" />
+        <item itemvalue="Gradle.CartService [bootJar]" />
+        <item itemvalue="Gradle.GoodsService [bootJar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2605998" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7403f50f-fb49-4f9f-8cbe-ea100588a463" name="Default Changelist" comment="" />
+      <created>1576644044979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576644044979</updated>
+      <workItem from="1576644048690" duration="33122000" />
+      <workItem from="1576717782158" duration="12974000" />
+      <workItem from="1576874517733" duration="6759000" />
+      <workItem from="1576914903359" duration="1577000" />
+      <workItem from="1576917094126" duration="107000" />
+      <workItem from="1576917493727" duration="7491000" />
+      <workItem from="1576975687223" duration="18095000" />
+      <workItem from="1577027035422" duration="14601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="665" y="203" key="#D:/Programing/Projects/microservices/TokenService/build.gradle" timestamp="1576906968340">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="665" y="203" key="#D:/Programing/Projects/microservices/TokenService/build.gradle/0.40.1920.1040@0.40.1920.1040" timestamp="1576906968340" />
+    <state x="634" y="220" key="#Docker" timestamp="1576986569877">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="634" y="220" key="#Docker/0.40.1920.1040@0.40.1920.1040" timestamp="1576986569877" />
+    <state x="634" y="220" key="#Path_mapping" timestamp="1576986531261">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="634" y="220" key="#Path_mapping/0.40.1920.1040@0.40.1920.1040" timestamp="1576986531261" />
+    <state x="552" y="220" key="#Project_Structure" timestamp="1576914219508">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="220" key="#Project_Structure/0.40.1920.1040@0.40.1920.1040" timestamp="1576914219508" />
+    <state x="765" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1576922255551">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="765" y="268" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1576922255551" />
+    <state x="759" y="474" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1576646089145">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="759" y="474" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1576646089145" />
+    <state x="546" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576719887265">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="546" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1576719887265" />
+    <state x="740" y="317" key="FileChooserDialogImpl" timestamp="1576986520208">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="317" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1576986520208" />
+    <state width="1552" height="291" key="GridCell.Tab.0.bottom" timestamp="1577041856392">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="291" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1577041856392" />
+    <state width="1552" height="291" key="GridCell.Tab.0.center" timestamp="1577041856392">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="291" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1577041856392" />
+    <state width="1552" height="291" key="GridCell.Tab.0.left" timestamp="1577041856392">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="291" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1577041856392" />
+    <state width="1552" height="291" key="GridCell.Tab.0.right" timestamp="1577041856392">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="291" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1577041856392" />
+    <state width="861" height="481" key="GridCell.Tab.1.bottom" timestamp="1577026021996">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="861" height="481" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1577026021996" />
+    <state width="861" height="481" key="GridCell.Tab.1.center" timestamp="1577026021996">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="861" height="481" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1577026021996" />
+    <state width="861" height="481" key="GridCell.Tab.1.left" timestamp="1577026021996">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="861" height="481" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1577026021996" />
+    <state width="861" height="481" key="GridCell.Tab.1.right" timestamp="1577026021996">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="861" height="481" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1577026021996" />
+    <state x="627" y="264" key="NewModule_or_Project.wizard" timestamp="1576909609538">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="627" y="264" key="NewModule_or_Project.wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1576909609538" />
+    <state x="440" y="136" width="1211" height="847" key="SettingsEditor" timestamp="1576925036853">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="440" y="136" width="1211" height="847" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1576925036853" />
+    <state x="606" y="177" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576695828032">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="606" y="177" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1576695828032" />
+    <state x="342" y="185" key="new project wizard" timestamp="1577030482935">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="342" y="185" key="new project wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1577030482935" />
+    <state x="616" y="260" width="672" height="677" key="run.anything.popup" timestamp="1576985050456">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="616" y="260" width="672" height="677" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1576985050456" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1577034700605">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1577034700605" />
+  </component>
+</project>

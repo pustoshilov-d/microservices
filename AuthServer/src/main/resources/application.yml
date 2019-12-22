@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: auth-service
+  jpa:
+    show-sql: true
+  h2:
+    console:
+      enabled: true
+
+server:
+  port: 9005
